@@ -10,6 +10,7 @@ You will need:
   - [perfboard](https://www.amazon.com/dp/B0896YPD8F/ref=sspa_dk_detail_1?psc=1&pd_rd_i=B0896YPD8F&pd_rd_w=YeZDT&pf_rd_p=085568d9-3b13-4ac1-8ae4-24a26c00cb0c&pd_rd_wg=WL5Tr&pf_rd_r=GHDMVCPPV0WKQYS7Q2P3&pd_rd_r=2fb5e5ac-5647-4ac5-b9f6-d883cd38286a&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExSUFXQjhBRzQ2TTRSJmVuY3J5cHRlZElkPUEwNDAwMDAyM0EwOU1GS0RQQVVETCZlbmNyeXB0ZWRBZElkPUEwNTA0NzA0MkUzUExKVFMzUllFMyZ3aWRnZXROYW1lPXNwX2RldGFpbCZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
 ### Software
   - Python 3.7
+    - Pip
     - The [PILLOW Library](https://pillow.readthedocs.io/)
     - [TKinter](https://docs.python.org/3/library/tkinter.html) (comes preinstalled with newer versions of python)
   - Arduino IDE
