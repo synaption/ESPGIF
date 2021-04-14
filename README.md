@@ -35,7 +35,7 @@ Drag the "GIFConvert" folder wherever you want (I recommend your "Documents" fol
 ## Step 3: Wiring
 Now that you've set up the project, let's actually display a GIF!
 
-Here's the wiring diagram:
+Here's the wiring diagram. match these to the [pins](https://images-na.ssl-images-amazon.com/images/I/61tOezAohEL._AC_SL1100_.jpg) on the 8266:
 
  OLED | ESP8266 
  ---- | ------- 
