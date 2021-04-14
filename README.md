@@ -57,8 +57,8 @@ There are many video to gif converting tools.  I used [this one](https://ezgif.c
 
 Remember the GIFConvert folder? Go ahead and open it and find the python script called, `GIFConvert.py`. Run it. It'll open a file selector. Choose your desired GIF, and press "Open". It will convert the image into an Arduino-readable format and open a .txt file containing the byte array. 
 
-Use Ctrl+A/⌘+A to select all of the text in the open file, and use Ctrl+C/⌘+C to copy it to your clipboard.
-Open the `GIF.h` file in the `GIFDisplay` folder, and use Ctrl+A/⌘+A to select all of the text, and then Ctrl+V/⌘+V to copy over the text.
+Use Ctrl+A to select all of the text in the open file, and use Ctrl+C to copy it to your clipboard.
+Open the `GIF.h` file in the `GIFDisplay` folder, and use Ctrl+A to select all of the text, and then Ctrl+V to copy over the text.
 Upload the code, and you should see the updated GIF!
 
 If there is an error compiling, the GIF is probably too big. Choose a shorter/ lower framerate GIF and repeat this process.
